@@ -15,7 +15,7 @@ export default {
 <style>
     .title{
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        color: rgb(214, 134, 198);
+        color: rgb(63, 168, 200);
         position: absolute;
         z-index: 1;
         font-size: larger;

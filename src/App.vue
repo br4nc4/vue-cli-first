@@ -1,24 +1,24 @@
 <template>
-    <div id="title">
+    <div id="test">
         <TitlePage></TitlePage>
+        <HeroImage></HeroImage>
     </div>
 </template>
 
 <script>
 import TitlePage from './components/TitlePage.vue'
+import HeroImage from './components/HeroImage.vue'
 
 export default {
     components:{
-        TitlePage,
-    }
+    TitlePage,
+    HeroImage
+}
 }
 </script>
 
 <style>
-    #title{
-        text-align: center;
-        margin-top: 5rem;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif, 'Times New Roman', Times, serif;
-        color: rgb(12, 12, 41);
+    #test{
+        position: relative;
     }
 </style>

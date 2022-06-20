@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="jumbo">
-            <img src="../img/jumbotron.png" alt="">
+            <img src="../img/jumbotron.jpg" alt="">
         </div>
     </div>
 </template>
